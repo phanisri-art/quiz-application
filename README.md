@@ -18,4 +18,4 @@ A Python project that allows users to take a multiple-choice quiz and automatica
 4. View your score at the end.
 
 ## Output
-See output.png for sample quiz execution.
+See quiz output.png for sample quiz execution.
